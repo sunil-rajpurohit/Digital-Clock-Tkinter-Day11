@@ -2,7 +2,6 @@
 
 A simple yet elegant digital clock built with Python’s built-in `tkinter` GUI library. This project displays the current time in real-time with a clean interface.
 
-![Digital Clock Screenshot](screenshots/clock.png) <!-- Add a screenshot if available -->
 
 ## 🎯 Features
 - Real-time clock display (HH:MM:SS format)
